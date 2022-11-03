@@ -3,7 +3,14 @@ body{
     color:black;
 }
 
+h1{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
 
+p{
+    color: aliceblue;
+}
 
 
 .bg-Sue{
