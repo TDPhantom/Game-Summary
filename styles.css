@@ -11,10 +11,13 @@ body{
     : rgb(0, 0, 0);
 }
 .bg-Su{
-    background-color: rgb(131, 131, 131);
+    background-color: rgb(165, 165, 165);
 }
 
 .bg-Spider{
     background-color: aquamarine;
 }
 
+.Style{
+    background-color: black;
+}
